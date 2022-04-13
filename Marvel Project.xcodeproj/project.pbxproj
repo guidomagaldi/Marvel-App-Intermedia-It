@@ -143,6 +143,7 @@
 		061287872801BC9600407366 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				06D3674428026A8400A2F6C0 /* Fonts */,
 				06D6799B2805CF9000D6F9E3 /* UserDefaults */,
 				066592EA28032B31004CB193 /* Extensions */,
 			);
@@ -215,7 +216,6 @@
 			isa = PBXGroup;
 			children = (
 				0662FA4D27FFA5D000AE2B31 /* Info.plist */,
-				06D3674428026A8400A2F6C0 /* Fonts */,
 				061287872801BC9600407366 /* Utils */,
 				0662FA6F27FFA66E00AE2B31 /* Coordinators */,
 				061287842800F9CA00407366 /* Models */,
