@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>999863657766-3u84grhon0rsmele9toujrd14e7n56el.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.999863657766-3u84grhon0rsmele9toujrd14e7n56el</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmHIljXW1PE9wOOwylLhunkqEYuh9zq3k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>999863657766</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ponchodigital.Marvel-Project</string>
+	<key>PROJECT_ID</key>
+	<string>marvelapp-intermediait</string>
+	<key>STORAGE_BUCKET</key>
+	<string>marvelapp-intermediait.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:999863657766:ios:761c422cefc77dc7848de7</string>
+</dict>
+</plist>
